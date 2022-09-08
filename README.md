@@ -1,3 +1,3 @@
-# Project moved to gitlab
+# Board moved to gitlab
 
-https://gitlab.com/software-engineering-1/sw1-front/
+https://gitlab.com/software-engineering-1
